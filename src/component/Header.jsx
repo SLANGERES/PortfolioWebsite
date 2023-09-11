@@ -11,7 +11,7 @@ export const Header = () => {
   }
   return (
     <div className=' flex text-white h-24 justify-between items-center max-w-[1240px] mx-auto px-4'>
-      <h1 className=' text-3xl font-bold text-[#00df9a]   '>React </h1>
+      <h1 className=' text-3xl font-bold text-[#00df9a]   '>DEVLOPER </h1>
         <ul className='hidden md:flex'>
           <li className='p-5'>Home</li>
           <li className='p-5'>About</li>

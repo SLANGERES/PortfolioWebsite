@@ -11,9 +11,9 @@ export const Contact = () => {
             <div className='my-3'>
                 <div>
                     <input className='p-3 flex rounded-lg w-full' type="email" placeholder='Enter your email' />
-                    <button className='bg-orange-200 min-w-200px px-6 py-2 my-6 mx-4 rounded-md text-black font-medium '>Notify Me</button>
+                    <button className='bg-orange-200 min-w-200px px-6 py-2 my-6 mx-4 rounded-md text-black font-medium hover:animate-pulse '>Notify Me</button>
                 </div>
-                <p className=' text-yellow-100 uppercase text-sm'>Your Email is fully protected Don't woriee</p>
+                <p className=' text-yellow-100 uppercase text-xs '>Your Email is fully protected </p>
             </div>
 
         </div>
