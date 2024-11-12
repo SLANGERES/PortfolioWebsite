@@ -1,5 +1,5 @@
 import React from 'react';
-import  Typed  from 'react-typed';
+
 
 export const Body = () => {
   return (
@@ -13,17 +13,6 @@ export const Body = () => {
           </p>
           <div className='text-3xl text-gray-200 m-4'>
             <span>I KNOW </span>
-          <Typed
-                strings={[
-                    'KOTLIN',
-                    'C++',
-                    'HTML CSS',
-                    'JAVASCRIPT']}
-                    typeSpeed={140}
-                    backSpeed={150}
-                    
-                    loop >
-                </Typed>
           </div>
           <button className='bg-orange-200 min-w-200px p-3 m-8 rounded-md text-black font-medium hover:animate-pulse '>MY WORKS</button>
         </div>
