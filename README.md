@@ -1,10 +1,10 @@
-# Portfolio Website
+# Freelancer 
 
 ![Portfolio Website Screenshot](screenshot.png)
 
 ## Introduction
 
-Welcome to my portfolio website, a showcase of my work, skills, and achievements. This website was built using modern web development technologies such as React, Vite, and Tailwind CSS, providing a fast and visually appealing experience for visitors. Use this README to learn how to set up, customize, and deploy your own portfolio website based on this project.
+Welcome to my freelancer website, a showcase of my work, skills, and achievements. This website was built using modern web development technologies such as React, Vite, and Tailwind CSS, providing a fast and visually appealing experience for visitors. Use this README to learn how to set up, customize, and deploy your own portfolio website based on this project.
 
 ## Features
 
